@@ -1,7 +1,7 @@
-#include<bits/stdc++.h>
-using namespace std;
+#include<bits/stdc++.h>                                               
+using namespace std;                                        
 int main()
-{
+{                               
     string str,str2;                 
     cin >> str >> str2;                       
     int cnt=0,len = str.length();                        
